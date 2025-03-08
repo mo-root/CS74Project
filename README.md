@@ -100,4 +100,4 @@ Contributions are welcome! Open a pull request or file an issue for improvements
 
 This project is released under the [MIT License](LICENSE).
 
-![Keynote Template](https://github.com/user-attachments/assets/7d697047-4687-4a7e-93db-837d8132d799)
+![CS74](https://github.com/user-attachments/assets/a743b453-5b80-4ccd-aeeb-ca4ec26590fa)
